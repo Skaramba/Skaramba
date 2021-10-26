@@ -6,6 +6,10 @@ Telegram: @Skarambah
 Email: s3mcomp@gmail.com
 Website: dwandie.wixsite.com/sbsibisi
 
++++++++++++++++++++++++++++++++++++++++++++++
+  This is a desktop app made with Java
++++++++++++++++++++++++++++++++++++++++++++++
+
 ==================================================================
 		HOW TO RUN APPLICATION DESCRIPTION
 ==================================================================
