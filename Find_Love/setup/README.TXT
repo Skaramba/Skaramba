@@ -22,9 +22,9 @@ eg: if you saved it on desktop===>
 	C:\WINDOWS\"your username"\desktop>
 3. type cd Find_Love, that leads here
 	C:\WINDOWS\"your username"\desktop\Find_Love>
-4. type cd dist, that leads here
-	C:\WINDOWS\"your username"\desktop\Find_Love\dist>
-5. finally type "Find_Love.exe" with/without quote, to launch the app...
+4. type cd setup, that leads here
+	C:\WINDOWS\"your username"\desktop\Find_Love\setup>
+5. finally type "setup.exe" with/without quote, to launch the app install...
 	works the same. 
 
 --------------------
