@@ -1,32 +1,45 @@
-========================
-BUILD OUTPUT DESCRIPTION
-========================
+####### All rights reserved by the Author ##########################
 
-When you build an Java application project that has a main class, the IDE
-automatically copies all of the JAR
-files on the projects classpath to your projects dist/lib folder. The IDE
-also adds each of the JAR files to the Class-Path element in the application
-JAR files manifest file (MANIFEST.MF).
+Author: Dolph Wandie "Skaramba"
+GitHub: @Skaramba
+Telegram: @Skarambah
+Email: s3mcomp@gmail.com
+Website: dwandie.wixsite.com/sbsibisi
 
-To run the project from the command line, go to the dist folder and
-type the following:
+++++++++++++++++++++++++++++
+  This is a desktop app
+++++++++++++++++++++++++++++
+==================================================================
+		HOW TO RUN APPLICATION DESCRIPTION
+==================================================================
 
-java -jar "My_Clock.jar" 
+--------------------
+	Method 1 - Installing via cmd
+--------------------
 
-To distribute this project, zip up the dist folder (including the lib folder)
-and distribute the ZIP file.
+To run the project from the command line, go to the dist folder in cmd by either
+copying the address from where you saved the folder or by typing the following:
 
-Notes:
+eg: if you saved it on desktop===>
+1. by default you will be here if you open/launch cmd(command prompt)
+	C:\WINDOWS\"your username">
+2. type cd desktop, then you'll have something like
+	C:\WINDOWS\"your username"\desktop>
+3. type cd My_Clock, that leads here
+	C:\WINDOWS\"your username"\desktop\My_Clock>
+4. type cd setup, that leads here
+	C:\WINDOWS\"your username"\desktop\My_Clock\setup>
+5. finally type "clocksetup.exe" with/without quote, to launch the app install...
+	works the same. 
 
-* If two JAR files on the project classpath have the same name, only the first
-JAR file is copied to the lib folder.
-* Only JAR files are copied to the lib folder.
-If the classpath contains other types of files or folders, these files (folders)
-are not copied.
-* If a library on the projects classpath also has a Class-Path element
-specified in the manifest,the content of the Class-Path element has to be on
-the projects runtime path.
-* To set a main class in a standard Java project, right-click the project node
-in the Projects window and choose Properties. Then click Run and enter the
-class name in the Main Class field. Alternatively, you can manually type the
-class name in the manifest Main-Class element.
+--------------------
+	Method 2 - Installing directly from folder
+--------------------
+
+Navigate to where you downloaded the application
+1. Open My_Clock folder
+2. navigate to setup and open it
+3. run the clocksetup.exe file to install the app and launch the desktop 
+	shortcut after installation finishes.
+
+
