@@ -1,3 +1,5 @@
+####### All rights reserved by the Author ##########################
+
 Author: Dolph Wandie "Skaramba"
 GitHub: @Skaramba
 Telegram: @Skarambah
