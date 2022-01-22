@@ -10,3 +10,8 @@ With this java app you can do any of the following options:
 5. Display graph
 
 With option 5 you can display a bar graph that shows stat of how many time each # between 1-10 has been generated.
+
+There are no special requirements to run this app, 
+all you have to do is to download the zip folder or clone it
+then run the file using any software/ programs that can run java files 
+or by simple using command prompt (CMD).
