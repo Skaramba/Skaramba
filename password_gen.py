@@ -1,4 +1,4 @@
-# This is a strong password generator app
+# This is a (python) strong password generator app
 # Made by Dolph Wandie
 # GitHub: @Skaramba      Email: Qtechwrld@gmail.com
 # You can copy and implement it to you application
