@@ -1,4 +1,4 @@
-# This is a strong password generator
+# This is a countdown timer that accept time in seconds only
 # Made by Dolph Wandie
 # GitHub: @Skaramba      Email: Qtechwrld@gmail.com
 # You can copy and implement it to you application
@@ -6,8 +6,6 @@
 import time
 
 print("This is a countdown timer")
-
-
 
 def start_counting(t):
     print('\tCounting down now...\n')
@@ -28,14 +26,6 @@ def start_counting(t):
     print('\tYour timer completed!!')
     print('+++++++++++++++++++++++++++++++++++++')
     
-# def my_method(d, h, m, s):
-#     if s > 60:
-#         m = s/60
-
-# day = input("Enter date [eg:12-10-2022] for your last day of the countdown: ")
-# hr = int(input('Enter time in hours: '))
-# minu = int(input('Enter time in minutes: '))
-sec = int(input('Enter time in seconds: '))
-timer = sec
-start_counting(timer)
-# my_method(day, hr, minu, sec)
+sec = input('Enter time in seconds: ')
+time = int(sec)
+start_counting(time)
