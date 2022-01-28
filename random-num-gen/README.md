@@ -1,3 +1,12 @@
+Author: Dolph Wandie "Skaramba"
+GitHub: @Skaramba
+Telegram: @Skarambah
+Email: s3mcomp@gmail.com
+
+++++++++++++++++++++++++++++
+  This is a desktop app made with Java
+++++++++++++++++++++++++++++
+
 Random Number(#) Generator & Calculator
 
 
