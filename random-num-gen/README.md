@@ -9,9 +9,9 @@
   This is a desktop app made with Java
 ++++++++++++++++++++++++++++
 
-==================================================================
-         Random Number(#) Generator & Calculator
-==================================================================
+==================================================================  
+         Random Number(#) Generator & Calculator  
+==================================================================  
 
 With this java app you can do any of the following options:
 
