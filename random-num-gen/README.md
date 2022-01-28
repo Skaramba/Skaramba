@@ -1,14 +1,17 @@
-Author: Dolph Wandie "Skaramba"
-GitHub: @Skaramba
-Telegram: @Skarambah
-Email: s3mcomp@gmail.com
+============================All Rights Reserved==============
+
+ Author: Dolph Wandie "Skaramba"  
+ GitHub: @Skaramba  
+ Telegram: @Skarambah  
+ Email: s3mcomp@gmail.com
 
 ++++++++++++++++++++++++++++
   This is a desktop app made with Java
 ++++++++++++++++++++++++++++
 
-Random Number(#) Generator & Calculator
-
+==================================================================
+         Random Number(#) Generator & Calculator
+==================================================================
 
 With this java app you can do any of the following options:
 
