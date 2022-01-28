@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and PyQt5.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-      EMAIL - Qtechwrld@gmail.com --> 
+      EMAIL - Qtechwrld@gmail.com --> s3mcomp@gmail.com
 
 <!---
 Skaramba/Skaramba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
