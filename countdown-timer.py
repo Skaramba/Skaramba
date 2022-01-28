@@ -1,4 +1,4 @@
-# This is a countdown timer that accept time in seconds only
+# This is a (python) countdown timer that accept time in seconds only
 # Made by Dolph Wandie
 # GitHub: @Skaramba      Email: Qtechwrld@gmail.com
 # You can copy and implement it to you application
